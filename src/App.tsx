@@ -25,7 +25,7 @@ function App() {
                   <div className="flex items-center justify-between">
                     <div className="max-w-xl">
                       <h2 className="text-4xl font-bold text-gray-900 dark:text-gray-100 mb-4">
-                        10-Minute Delivery
+                        10-Minute Food Delivery
                       </h2>
                       <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
                         Get your groceries, electronics, and essentials delivered to your doorstep in minutes.
